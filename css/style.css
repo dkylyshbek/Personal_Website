@@ -7,3 +7,34 @@ body {
     background-color: #E5DADA;
 
 }
+
+.sauce {
+    background-color: #E5DADA;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .sauce li {
+    float: left;
+    background-color: #E59500;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .sauce li:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .sauce li.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
+  
